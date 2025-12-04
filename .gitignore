@@ -1,1 +1,15 @@
 .venv/
+/main.ipynb
+/train_model_2.py
+/train_model_3.py
+/train_model.py
+/SIC_AI_Capstone Project_Final Report_ket_thuc.docx
+/SIC_AI_Capstone Project_PowerPoint_AIoT.pptx
+/predict_next_trend.py
+/predict_next_trend_2.py
+/predict_next_trend_3.py
+/main.py
+/get-pip.py
+*models*/
+*predictions*/
+*reports*/
